@@ -3,7 +3,7 @@
 
 // Driver Code Starts
 
-#inclue <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 // Driver Code Ends
