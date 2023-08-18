@@ -2,6 +2,8 @@
 
 Welcome to my repository dedicated to practicing DSA problems 📚💻
 
+
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 &nbsp;&nbsp;
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoumil1%2FDSA-Preparation&count_bg=%2379C83D&title_bg=%23555555&icon=dsautomobiles.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -36,10 +38,11 @@ Have an interesting problem to share? Found a helpful resource? Solved something
 * [workat.tech DSA Practice Sheet](https://workat.tech/problem-solving/practice)
 * [workat.tech 6 Month DSA Practice Sheet](https://workat.tech/problem-solving/lists/six-month-dsa-practice-sheet/practice)
 
+
 <br>
 
-<h3 style="text-align: center;">Keep getting better every day 🎯</h3>
 
+<h3 align="center">Keep getting better every day 🎯</h3>
 
 
 
