@@ -38,15 +38,9 @@ Have an interesting problem to share? Found a helpful resource? Solved something
 
 <br>
 
-<div style="text-align:center;">
-
 <p align="center">
-
-<h3>"Keep getting better every day 🎯"</h3>
-
+  <h3>"Keep getting better every day 🎯"</h3> 
 </p>
-
-</div>
 
 
 
